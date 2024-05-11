@@ -1,4 +1,3 @@
-
 // Own fuctions
 const authenticate = require('./scripts/googleapi.authenticate')
 const calendar = require('./scripts/googleapi.calendar')
