@@ -1,0 +1,15 @@
+{
+  "name": "calendar_api",
+  "version": "1.0.0",
+  "description": "Google Calendar API",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "@google-cloud/local-auth": "^2.1.0",
+    "googleapis": "^105.0.0"
+  },
+  "author": "Jimmy",
+  "license": "ISC"
+}
