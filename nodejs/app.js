@@ -1,7 +1,7 @@
 // Own fuctions
-const authenticate = require('./scripts/googleapi.authenticate')
-const calendar = require('./scripts/googleapi.calendar')
-const people = require('./scripts/googleapi.people')
+const authenticate = require('./scripts/googleapi/authenticate')
+const calendar = require('./scripts/googleapi/calendar')
+const people = require('./scripts/googleapi/people')
 
 const main = async () => {
     console.log('holis')
